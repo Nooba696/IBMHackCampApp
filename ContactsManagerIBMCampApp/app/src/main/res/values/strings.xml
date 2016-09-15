@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">contactsIBMApp</string>
+    <string name="fragment_add_contact_input_email_hint">Email</string>
+    <string name="fragment_add_contact_input_name_hint">Name</string>
+    <string name="fragment_add_contact_input_phone_hint">phone</string>
+    <string name="fragment_add_contact_done_button_text">Add Contact</string>
+</resources>
